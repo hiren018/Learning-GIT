@@ -2,4 +2,4 @@ Hello Everyone !
 It's second day of traning.
 Changing in Development branch
 changing by another person.
-it's a 3rd day of training.
+it's a 3rd day.
