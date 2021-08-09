@@ -4,7 +4,7 @@ created by hiren
 editing file
 editing again
 editing
-
+checking conflicts
 
 It's second day of traning.
 Changing in Development branch
