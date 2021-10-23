@@ -3,11 +3,12 @@ Hello Everyone !
 created
 editing file
 editing again
-editing
-
+checking conflicts
+checking conflicts
 
 It's second day of traning.
 Changing in Development branch
 it is 6 month training.
 it is good
+checking merge
 
